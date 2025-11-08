@@ -21,3 +21,7 @@ AwaLife is a cross-platform mobile app that connects users to verified paramedic
 AwaLife approach is technically feasible because the tools required are easy to find, reliable, and affordable for Nigerian developers.  
 
 **For AwaLife Security:** Using login tokens, store minimal data, and encrypt sensitive info.
+
+
+
+Diagram coming soon!
