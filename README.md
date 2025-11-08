@@ -20,3 +20,24 @@ AwaLife is for anyone in Nigeria who might need emergency help. For example, Vic
 
 **AwaLife Technologies**  
 Mobile app (Android and iOS), Laravel backend, MySQL database.  
+
+
+# Our Life — Emergency Response App
+
+**What it does**  
+Our Life helps people in Nigeria get fast help when someone is hurt. When you press a big "HELP" button, the app calls real paramedic teams who give first aid and take the person to the right hospital quickly.
+
+**Why it matters**  
+Every second counts in an emergency. Our Life helps save lives by getting help there faster and sending patients to hospitals that can really help.
+
+**Who it’s for**  
+Anyone in Nigeria who might need emergency help — drivers, families, or medical helpers.
+
+**Key features**  
+- Big HELP button to request an ambulance/paramedic team  
+- Real-time confirmation from paramedic services  
+- Map of hospitals with the right equipment  
+- Optional air transport (telecopter) for far-away patients  
+
+**Technologies**  
+Mobile app (Android + iOS), Laravel backend, MySQL database.  
