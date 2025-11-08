@@ -24,3 +24,7 @@ AwaLife is for anyone in Nigeria who might need emergency help. For example, Vic
 
 **AwaLife Technologies:**  
 Mobile app (Android and iOS), Laravel backend, MySQL database.  
+
+
+Last updated: 8th November, 2025
+
